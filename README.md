@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
-<h1 align="center">Sieve-of-Eratosthenes</h1>
-  <a target="_blank" href="https://sevetoo.github.io/Sieve-of-Eratosthenes/">
-  <img src="./preview.png" alt="Sieve-of-Eratosthenes" />
+<h1 align="center">Sieve of Eratosthenes</h1>
+  <a target="_blank" href="https://sevetoo.github.io/sieve-of-eratosthenes/">
+  <img src="./preview.png" alt="sieve-of-eratosthenes" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/Sieve-of-Eratosthenes/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/sieve-of-eratosthenes/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/Sieve-of-Eratosthenes?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/sieve-of-eratosthenes?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/Sieve-of-Eratosthenes?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/sieve-of-eratosthenes?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/Sieve-of-Eratosthenes?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/sieve-of-eratosthenes?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/Sieve-of-Eratosthenes?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/sieve-of-eratosthenes?color=56BEB8">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 <!-- Make some description to me -->
 
-It is a simple project wich shows simple Sieve-of-Eratosthenes
+It is a simple project wich shows simple sieve-of-eratosthenes
 
 <!-- ## :sparkles: Features
 :heavy_check_mark: You can set interval between rounds \
@@ -53,12 +53,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/Sieve-of-Eratosthenes/
+https://sevetoo.github.io/sieve-of-eratosthenes/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/Sieve-of-Eratosthenes/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/sieve-of-eratosthenes/" >click link</a> )
 
 ## 😎 Made by
 

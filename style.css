@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+:root {
+  --main-color: #191919;
+  --text-color: #dddddd;
+  --second-color: #e43d40;
+  --df-margin: 10px;
+  --df-padding: 10px;
+  --df-radius: 5px;
+  --df-border: 5px solid var(--second-color);
+  scroll-behavior: smooth;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: var(--main-color);
+  color: var(--text-color);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App__sieveOfEratosthenes {
+  width: 100%;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+}
+
+.App_title {
+  margin-bottom: 22px;
+}
+
+.App__content {
+  width: 100%;
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+  gap: 10px;
+  padding: 15px;
+}
+
+.content__number {
+  width: 36px;
+  height: 17px;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(226, 62, 62, 0.891);
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
+}
+
+.disabled {
+  background: rgba(226, 62, 62, 0.272);
+  opacity: 0.4;
+}
+
+.safe {
+  background: rgb(41, 202, 41);
+  color: black;
+  font-weight: 600;
+}
+
+.searched {
+  background: blue;
+}
+
+.next {
+  position: sticky;
+  top: 5px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 0px solid transparent;
+  border-bottom: 1px solid var(--second-color);
+  border-top: 1px solid var(--second-color);
+  color: var(--text-color);
+  letter-spacing: 3px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+  /* background: #000; */
+}
+
+.next:hover {
+  padding: 10px 25px;
+}
+
+.next:focus {
+  outline: none;
+}
